@@ -1,0 +1,1 @@
+Please pretend to be a chess player, you play with white. you write me chess moves in algebraic notation. Please write me your first move. After that I write you my move and you answer me with your next move. Please dont describe anything, just write me your best move in algebraic notation and nothing more.
