@@ -50,3 +50,6 @@ soccer, 3, doc4, doc120, doc133
 
 Query Processing: 
 In this step, we need to read wholeInvertedIndex.txt into a new RDD. Then, the application should search this RDD to answer a user’s query. For example, if user searches for “play”, then the system should print: doc3, doc6, doc120, doc133. If user searches for “play soccer”, then the system prints: doc120, doc133.
+
+
+https://www.youtube.com/watch?v=b2Kcd8ttuq8
